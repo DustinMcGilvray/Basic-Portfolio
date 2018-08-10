@@ -120,21 +120,13 @@ section{
     padding: 30px 20px 20px;
 }
 
-form{
-    font-size: 20px;
-    margin: 25px;
-}
-
-.form_spacing{
-    margin-bottom: 15px;
-    width: 870px;
-}
-#form_message {
-   padding: 0 0 100px 0;
-}
 
 hr {
     width: 95%;
+}
+
+#socialButtons{
+    margin-left: 35%;
 }
 
 #headshot {
